@@ -1,5 +1,4 @@
 # Predicción de Miopía Infantil mediante Ciencia de Datos
-
 Este repositorio contiene el trabajo final para la materia **Fundamentos para la Ciencia de Datos** de la Especialización en Ciencia de Datos (UNLaM), bajo la cátedra de la Prof. Silvia N. Pérez.
 
 ## 🧪 Tecnologías utilizadas
