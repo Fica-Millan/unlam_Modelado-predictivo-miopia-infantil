@@ -62,7 +62,7 @@ Construir y comparar modelos estadísticos para predecir la presencia de miopía
 
 | Yesica Fica Millán        | Florencia Miranda Charca  | Franco Petraroia           |
 |---------------------------|---------------------------|----------------------------|
-| [LinkedIn](https://www.linkedin.com/in/yesica-fica-millan/) | [LinkedIn](https://www.linkedin.com/in/florencia-charca/) | [LinkedIn](https://www.linkedin.com/in/franco-petraroia/) |
+| [LinkedIn](https://www.linkedin.com/in/yesica-fica-millan/) | [LinkedIn](https://www.linkedin.com/in/florencia-m-32908b17b/) | [LinkedIn](https://www.linkedin.com/in/franco-petraroia/) |
 
 
 ## 📎 Licencia
